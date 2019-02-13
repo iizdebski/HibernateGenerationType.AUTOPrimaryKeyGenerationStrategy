@@ -1,4 +1,4 @@
-#HibernateGenerationType.AUTOPrimaryKeyGenerationStrategy
+# HibernateGenerationType.AUTOPrimaryKeyGenerationStrategy
 
 The GenerationType.AUTO is the default generation type and lets the persistence provider choose the generation strategy.
 
