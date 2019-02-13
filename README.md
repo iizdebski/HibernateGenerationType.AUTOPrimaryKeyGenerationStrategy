@@ -1,0 +1,3 @@
+# HibernateGenerationType.AUTOPrimaryKeyGenerationStrategy
+
+Hibernate GenerationType.AUTO primary key generation strategy
